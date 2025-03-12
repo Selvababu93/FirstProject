@@ -7,3 +7,7 @@ git status => will show status of file
 git config --global user.email "emailID"
 git config --global user.name "userName"
 git commit -m "msg" => To commit msg is to descripbe the our changes or our notes
+After commit check status
+git status => will give detail
+git push => this will push file to git repository
+git pull => this will download the file from repository
