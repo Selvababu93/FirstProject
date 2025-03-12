@@ -1,0 +1,9 @@
+git clone "url" => To clone repository in local system
+
+To send local file git repository
+git add <filename>
+git status => will show status of file
+#Before commit add your account in cmd
+git config --global user.email "emailID"
+git config --global user.name "userName"
+git commit -m "msg" => To commit msg is to descripbe the our changes or our notes
