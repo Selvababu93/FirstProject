@@ -19,3 +19,8 @@ git reset--hard origin/master
 
 git branch => check branch
 git checkout -b "newbranch" => change the branch
+
+after done changes in new branch
+merge it into main branch
+git checkout main => move to main branch
+git merge main => merge to main branch 
