@@ -11,3 +11,4 @@ After commit check status
 git status => will give detail
 git push => this will push file to git repository
 git pull => this will download the file from repository
+git commit -am => used to commit all the files after changes made
